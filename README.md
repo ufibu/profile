@@ -1,7 +1,7 @@
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Mochamad Lutfi Buchori </h1>
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-    I'm a self-taught developer with a passion for building things that make a difference. My primary focus is on using JavaScript to create web applications, but I'm also currently learning PHP and Laravel to expand my skills.
+    I'm a self-taught developer with a passion for building things that make a difference. My primary focus is on using JavaScript to create web applications, but I'm also currently learning Next JS to expand my skills.
 <br>
 <br>
 <div align="center">
